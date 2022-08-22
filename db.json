@@ -2,7 +2,7 @@
   "events": [
     {
       "id": 5928101,
-      "category": "animal welfare",
+      "category": "animals",
       "title": "Cat Adoption Day",
       "description": "Find your new feline friend at this event.",
       "location": "Meow Town",
@@ -32,6 +32,38 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    "id": 2228101,
+      "category": "animals",
+      "title": "Monkey Appreciation Day",
+      "description": "It's time to appreciate monkeys!.",
+      "location": "Banana Town",
+      "date": "January 20, 2022",
+      "time": "11:00",
+      "petsAllowed": true,
+      "organizer": "Captain Monkey"
+    },
+    {
+      "id": 4482797,
+      "category": "food",
+      "title": "Taco Tuesday!",
+      "description": "Tacos Tacos, burritos!",
+      "location": "Taco De La Muerte",
+      "date": "October 16, 2022",
+      "time": "12:00",
+      "petsAllowed": false,
+      "organizer": "Tequila King"
+    },
+    {
+      "id": 6619988,
+      "category": "sustainability",
+      "title": "Clean up the park",
+      "description": "All the litter from yesterdays Taco Tuesday needs to get gone.",
+      "location": "Taco De La Muerte",
+      "date": "October 17, 2022",
+      "time": "10:00",
+      "petsAllowed": false,
+      "organizer": "Jan Itor"
     }
   ]
 }

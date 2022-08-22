@@ -33,7 +33,8 @@
       "petsAllowed": false,
       "organizer": "Carey Wales"
     },
-    "id": 2228101,
+    {
+      "id": 2228101,
       "category": "animals",
       "title": "Monkey Appreciation Day",
       "description": "It's time to appreciate monkeys!.",
